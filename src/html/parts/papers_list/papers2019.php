@@ -1,5 +1,7 @@
 <?php
 
+$doctors = array();
+
 $masters = array(
     '森 敬介'=>array('UMLとソースコード間のトレーサビリティをリアルタイムに維持するツールRETUSSの実装と評価', ''),
 );

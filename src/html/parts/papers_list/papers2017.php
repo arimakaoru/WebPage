@@ -1,5 +1,7 @@
 <?php
 
+$doctors = array();
+
 $masters = array();
 
 $bachelors = array(

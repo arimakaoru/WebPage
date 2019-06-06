@@ -1,5 +1,7 @@
 <?php
 
+$doctors = array();
+
 $masters = array(
     'Mochamad Chandra Spautra'=>array('Implementation of a Web-base Visualization Testing Tool for Java Programs: Web-VisIon', ''),
 );
