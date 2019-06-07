@@ -8,9 +8,9 @@ Bootstrapを利用しています。
 masterブランチを更新すると、earthのgitリポジトリのWebPageも更新されます。詳しくはhook.phpを参照。
 
 ## 各ディレクトリの概要　　　　　
-- `/css` -> 各種cssファイルが入ってます。　　
-- `/fonts` -> Bootstrapで利用するフォントが入ってます。　　
-- `/html` -> 各種HTMLファイルが入ってます。　　
-- `/html/parts` -> Webレイアウトのパーツ(ヘッダー、メニュー、フッター)が入ってます。　　
-- `/js` -> 各種JavaScriptファイルが入ってます。　　
+- `src/css` -> 各種cssファイルが入ってます。　　
+- `src/fonts` -> Bootstrapで利用するフォントが入ってます。　　
+- `src/html` -> 各種HTMLファイルが入ってます。　　
+- `src/html/parts` -> Webレイアウトのパーツ(ヘッダー、メニュー、フッター)が入ってます。　　
+- `src/js` -> 各種JavaScriptファイルが入ってます。　　
 - 'hook.php' -> 自動更新のWebHook設定です。
